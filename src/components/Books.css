@@ -1,0 +1,12 @@
+.cards_container{
+    display: inline;
+    flex-flow: column;
+    max-width: 150px;
+    height: 200px;
+    width: 90%;
+    margin: 0 auto;
+}
+.cards_item CardItem{
+    height:250px;
+    width:150px;
+}
